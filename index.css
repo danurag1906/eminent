@@ -6,66 +6,7 @@
     scroll-behavior: smooth;
     font-weight: normal;
 }
-/* header{
-    position: fixed;
-    top: 0;
-    left: 0;
-    width: 100%;
-    padding: 20px 100px;
-    z-index: 10000;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    transform: 0.5s;
-    background-color: rgb(220, 42, 42);
-}
-header.sticky{
-    background: white;
-    padding: 10px 50px;
-    box-shadow: 0 5px 20px rgba(0,0,0,0.5);
-}
 
-header .logo{
-    color: white;
-    font-weight: 600;
-    font-size: 1.5em;
-    text-decoration: none;
-    font-family: 'sans-serif';
-
-}
-
-header .logo1{
-    color: white;
-    font-weight: 600;
-    font-size: 1em;
-    text-decoration: none;
-    font-family: 'sans-serif';
-
-}
-header.sticky .logo1{
-    color:#111;
-}
-
-header .navigation{
-    position: relative;
-    display: flex;
-
-}
-header .navigation li{
-    list-style: none;
-    margin-left: 30px;
-
-}
-header .navigation li a{
-    text-decoration: none;
-    color: white;
-    font-weight: bold;
-
-}
-
-header .navigation li a:hover{
-    color:black;
-} */
 
 .navbar-brand{
     padding-left: 10px;
